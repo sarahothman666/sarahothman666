@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sarah! 👋
 
-<!--
-**sarahothman666/sarahothman666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Developer 🐍
 
-Here are some ideas to get you started:
+I'm learning programming step by step and building practical projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python Programming
+- SQL & Databases
+- Data Analysis
+
+### 🛠️ Skills & Tools
+- Python
+- Git & GitHub
+
+### 📂 My Projects
+- [Calculator](https://github.com/sarahothman666/calculator)
+- [Password Generator](https://github.com/sarahothman666/password-generator)
+
+### 🎯 My Goal
+To become a skilled developer, build real-world projects, and start my professional career in tech.
+
+---
+
+⭐ Learning, building, and improving every day!
